@@ -1,0 +1,14 @@
+{
+  "id": "stephaniene/25102nukospawix",
+  "id_no": "25102nukospawix",
+  "title": "25102nukospawix",
+  "code_file": "25102nukospawix.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

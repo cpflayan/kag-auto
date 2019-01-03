@@ -1,0 +1,14 @@
+{
+  "id": "alicegodbolt152/17144pcauqfstiq",
+  "id_no": "17144pcauqfstiq",
+  "title": "17144pcauqfstiq",
+  "code_file": "17144pcauqfstiq.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

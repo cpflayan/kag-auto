@@ -1,0 +1,14 @@
+{
+  "id": "zheng990/2710oksprcstgw",
+  "id_no": "2710oksprcstgw",
+  "title": "2710oksprcstgw",
+  "code_file": "2710oksprcstgw.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

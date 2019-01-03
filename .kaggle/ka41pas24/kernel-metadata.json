@@ -1,0 +1,14 @@
+{
+  "id": "joelga/2644feanicrkui",
+  "id_no": "2644feanicrkui",
+  "title": "2644feanicrkui",
+  "code_file": "2644feanicrkui.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

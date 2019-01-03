@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/8032eblpdardlz",
+  "id_no": "8032eblpdardlz",
+  "title": "8032eblpdardlz",
+  "code_file": "8032eblpdardlz.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

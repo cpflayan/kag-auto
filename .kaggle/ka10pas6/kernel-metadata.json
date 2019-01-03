@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/16596bmcfyhlkgu",
+  "id_no": "16596bmcfyhlkgu",
+  "title": "16596bmcfyhlkgu",
+  "code_file": "16596bmcfyhlkgu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

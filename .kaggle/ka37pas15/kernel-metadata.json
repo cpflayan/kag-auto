@@ -1,0 +1,14 @@
+{
+  "id": "matthewlo/1221mfvbnyllat",
+  "id_no": "1221mfvbnyllat",
+  "title": "1221mfvbnyllat",
+  "code_file": "1221mfvbnyllat.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

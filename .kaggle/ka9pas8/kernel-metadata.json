@@ -1,0 +1,14 @@
+{
+  "id": "kevinrh/9674plipehiclb",
+  "id_no": "9674plipehiclb",
+  "title": "9674plipehiclb",
+  "code_file": "9674plipehiclb.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "anthonykh/18326vbiblitobc",
+  "id_no": "18326vbiblitobc",
+  "title": "18326vbiblitobc",
+  "code_file": "18326vbiblitobc.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

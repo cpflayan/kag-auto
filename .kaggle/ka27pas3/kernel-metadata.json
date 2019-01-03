@@ -1,0 +1,14 @@
+{
+  "id": "keithyy/10230vrtpixalrb",
+  "id_no": "10230vrtpixalrb",
+  "title": "10230vrtpixalrb",
+  "code_file": "10230vrtpixalrb.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

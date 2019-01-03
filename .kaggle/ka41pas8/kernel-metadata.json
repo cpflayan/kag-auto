@@ -1,0 +1,14 @@
+{
+  "id": "joelga/22370kaskujjnth",
+  "id_no": "22370kaskujjnth",
+  "title": "22370kaskujjnth",
+  "code_file": "22370kaskujjnth.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

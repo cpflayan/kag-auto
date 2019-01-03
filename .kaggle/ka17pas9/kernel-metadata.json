@@ -1,0 +1,14 @@
+{
+  "id": "olssonbo/1091msbwlushqn",
+  "id_no": "1091msbwlushqn",
+  "title": "1091msbwlushqn",
+  "code_file": "1091msbwlushqn.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

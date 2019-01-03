@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/6774braziohunn",
+  "id_no": "6774braziohunn",
+  "title": "6774braziohunn",
+  "code_file": "6774braziohunn.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

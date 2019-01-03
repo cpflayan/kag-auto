@@ -1,0 +1,14 @@
+{
+  "id": "coryjs/25862lsvsumidac",
+  "id_no": "25862lsvsumidac",
+  "title": "25862lsvsumidac",
+  "code_file": "25862lsvsumidac.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "olssonbo/19511bznbijroum",
+  "id_no": "19511bznbijroum",
+  "title": "19511bznbijroum",
+  "code_file": "19511bznbijroum.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

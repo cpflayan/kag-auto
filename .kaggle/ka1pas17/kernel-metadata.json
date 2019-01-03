@@ -1,0 +1,15 @@
+{
+  "id": "acttivo/13989svnrswegex",
+  "id_no": 2518559,
+  "title": "13989svnrswegex",
+  "code_file": "13989svnrswegex.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": []
+}

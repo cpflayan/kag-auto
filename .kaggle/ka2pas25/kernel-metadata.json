@@ -1,0 +1,14 @@
+{
+  "id": "hostdjse/4269rtehprlcdn",
+  "id_no": "4269rtehprlcdn",
+  "title": "4269rtehprlcdn",
+  "code_file": "4269rtehprlcdn.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

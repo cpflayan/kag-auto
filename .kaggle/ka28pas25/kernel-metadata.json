@@ -1,0 +1,14 @@
+{
+  "id": "anthonykh/616gwesbvicum",
+  "id_no": "616gwesbvicum",
+  "title": "616gwesbvicum",
+  "code_file": "616gwesbvicum.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "binyi1999/20080xnrzbipopn",
+  "id_no": "20080xnrzbipopn",
+  "title": "20080xnrzbipopn",
+  "code_file": "20080xnrzbipopn.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

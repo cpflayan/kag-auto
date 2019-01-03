@@ -1,0 +1,14 @@
+{
+  "id": "josephinesk/5102culylomuxm",
+  "id_no": "5102culylomuxm",
+  "title": "5102culylomuxm",
+  "code_file": "5102culylomuxm.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

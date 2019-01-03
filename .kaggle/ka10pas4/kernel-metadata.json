@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/28717jvdrynlxpo",
+  "id_no": "28717jvdrynlxpo",
+  "title": "28717jvdrynlxpo",
+  "code_file": "28717jvdrynlxpo.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jessicamh/972tchngeqpan",
+  "id_no": "972tchngeqpan",
+  "title": "972tchngeqpan",
+  "code_file": "972tchngeqpan.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/15241glstfiuwcx",
+  "id_no": "15241glstfiuwcx",
+  "title": "15241glstfiuwcx",
+  "code_file": "15241glstfiuwcx.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

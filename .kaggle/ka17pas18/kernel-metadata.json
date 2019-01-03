@@ -1,0 +1,14 @@
+{
+  "id": "olssonbo/4665capwafpibl",
+  "id_no": "4665capwafpibl",
+  "title": "4665capwafpibl",
+  "code_file": "4665capwafpibl.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

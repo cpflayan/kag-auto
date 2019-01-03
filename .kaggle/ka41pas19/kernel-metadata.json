@@ -1,0 +1,14 @@
+{
+  "id": "joelga/32173skvylxrnas",
+  "id_no": "32173skvylxrnas",
+  "title": "32173skvylxrnas",
+  "code_file": "32173skvylxrnas.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

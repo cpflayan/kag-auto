@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/15510cscuyzxnje",
+  "id_no": "15510cscuyzxnje",
+  "title": "15510cscuyzxnje",
+  "code_file": "15510cscuyzxnje.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

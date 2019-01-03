@@ -1,0 +1,13 @@
+{
+  "id": "leaserefres/24730dqcjnaabud",
+  "title": "24730dqcjnaabud",
+  "code_file": "24730dqcjnaabud.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

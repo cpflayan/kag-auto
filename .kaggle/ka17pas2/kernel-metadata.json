@@ -1,0 +1,14 @@
+{
+  "id": "olssonbo/23190bgtperqcdf",
+  "id_no": "23190bgtperqcdf",
+  "title": "23190bgtperqcdf",
+  "code_file": "23190bgtperqcdf.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

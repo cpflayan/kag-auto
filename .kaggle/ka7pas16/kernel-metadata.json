@@ -1,0 +1,14 @@
+{
+  "id": "oliver4445/10340usdcugigpv",
+  "id_no": "10340usdcugigpv",
+  "title": "10340usdcugigpv",
+  "code_file": "10340usdcugigpv.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

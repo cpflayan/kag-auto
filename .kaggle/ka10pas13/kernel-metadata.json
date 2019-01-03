@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/12303tgizsmudlj",
+  "id_no": "12303tgizsmudlj",
+  "title": "12303tgizsmudlj",
+  "code_file": "12303tgizsmudlj.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fgoucasred/14290wuazvsmtpd",
+  "id_no": "14290wuazvsmtpd",
+  "title": "14290wuazvsmtpd",
+  "code_file": "14290wuazvsmtpd.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

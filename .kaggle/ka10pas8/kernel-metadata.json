@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/27461rgoersnclj",
+  "id_no": "27461rgoersnclj",
+  "title": "27461rgoersnclj",
+  "code_file": "27461rgoersnclj.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/8082udptrhtova",
+  "id_no": "8082udptrhtova",
+  "title": "8082udptrhtova",
+  "code_file": "8082udptrhtova.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

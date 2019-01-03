@@ -1,0 +1,14 @@
+{
+  "id": "zhenggyann/272xppddqzcdk",
+  "id_no": "272xppddqzcdk",
+  "title": "272xppddqzcdk",
+  "code_file": "272xppddqzcdk.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,73 @@
+./kag-status.sh 1
+
+sleep 10 
+
+./kag-status.sh 2
+
+sleep 10 
+
+./kag-status.sh 3
+
+sleep 10 
+
+./kag-status.sh 4
+
+sleep 10 
+
+./kag-status.sh 5
+
+sleep 10 
+
+./kag-status.sh 6
+
+sleep 10 
+
+./kag-status.sh 7
+
+sleep 10 
+
+./kag-status.sh 8
+
+sleep 10 
+
+./kag-status.sh 9
+
+sleep 10 
+
+./kag-status.sh 10
+
+sleep 10 
+
+./kag-status.sh 11
+
+sleep 10 
+
+./kag-status.sh 12
+
+sleep 10 
+
+./kag-status.sh 13
+
+sleep 10 
+
+./kag-status.sh 14
+
+sleep 10 
+
+./kag-status.sh 15
+
+sleep 10 
+
+./kag-status.sh 16
+
+sleep 10 
+
+./kag-status.sh 17
+
+sleep 10 
+
+./kag-status.sh 18
+
+sleep 10
+
+./kag-status.sh 19

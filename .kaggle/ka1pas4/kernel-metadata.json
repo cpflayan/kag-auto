@@ -1,0 +1,15 @@
+{
+  "id": "acttivo/11165csmcodwqeb",
+  "id_no": 2509806,
+  "title": "11165csmcodwqeb",
+  "code_file": "11165csmcodwqeb.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": []
+}

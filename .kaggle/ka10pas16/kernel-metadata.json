@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/15015xgradcebsn",
+  "id_no": "15015xgradcebsn",
+  "title": "15015xgradcebsn",
+  "code_file": "15015xgradcebsn.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

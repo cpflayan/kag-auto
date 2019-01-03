@@ -1,0 +1,14 @@
+{
+  "id": "zhenggyann/12252jteaildugg",
+  "id_no": "12252jteaildugg",
+  "title": "12252jteaildugg",
+  "code_file": "12252jteaildugg.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

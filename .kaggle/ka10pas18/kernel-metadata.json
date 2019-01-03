@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/31876qgeunfosjg",
+  "id_no": "31876qgeunfosjg",
+  "title": "31876qgeunfosjg",
+  "code_file": "31876qgeunfosjg.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "leaserefres/31961kngcskpcms",
+  "id_no": "31961kngcskpcms",
+  "title": "31961kngcskpcms",
+  "code_file": "31961kngcskpcms.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

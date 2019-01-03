@@ -1,0 +1,14 @@
+{
+  "id": "joelga/1923mkldrypjpf",
+  "id_no": "1923mkldrypjpf",
+  "title": "1923mkldrypjpf",
+  "code_file": "1923mkldrypjpf.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

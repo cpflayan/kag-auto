@@ -1,0 +1,14 @@
+{
+  "id": "joelga/2290vdcvjtwpgi",
+  "id_no": "2290vdcvjtwpgi",
+  "title": "2290vdcvjtwpgi",
+  "code_file": "2290vdcvjtwpgi.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

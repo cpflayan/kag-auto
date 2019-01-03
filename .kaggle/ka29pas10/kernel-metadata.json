@@ -1,0 +1,14 @@
+{
+  "id": "emarioryd/13061unekkvoczu",
+  "id_no": "13061unekkvoczu",
+  "title": "13061unekkvoczu",
+  "code_file": "13061unekkvoczu.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

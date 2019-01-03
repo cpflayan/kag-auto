@@ -1,0 +1,14 @@
+{
+  "id": "kenta1one/7825cenrarannz",
+  "id_no": "7825cenrarannz",
+  "title": "7825cenrarannz",
+  "code_file": "7825cenrarannz.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
